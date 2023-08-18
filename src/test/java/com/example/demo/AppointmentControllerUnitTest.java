@@ -39,8 +39,8 @@ class AppointmentControllerUnitTest{
     private AppointmentRepository appointmentRepository;
 
     @Autowired 
-    private MockMvc mockMvc;
- 
+    private MockMvc mockMvc; d
+  
     @Autowired
     private ObjectMapper objectMapper;
  

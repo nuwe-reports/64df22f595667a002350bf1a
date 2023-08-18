@@ -43,7 +43,7 @@ class AppointmentControllerUnitTest{
  
     @Autowired
     private ObjectMapper objectMapper;
-
+ 
     @Test
     void shouldCreateAppointment() throws Exception {
         
